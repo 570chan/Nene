@@ -1,0 +1,59 @@
+{
+	"approved" : true,
+	"contentrating" : "Everyone",
+	"description" : "A background of a NIKKE Goddess of Victory character that interacts with clicks by playing various animations",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"posX" : 
+			{
+				"fraction" : false,
+				"index" : 0,
+				"max" : 100,
+				"min" : -100,
+				"order" : 100,
+				"text" : "X [-05]",
+				"type" : "slider",
+				"value" : -5
+			},
+			"posY" : 
+			{
+				"fraction" : false,
+				"index" : 1,
+				"max" : 100,
+				"min" : -100,
+				"order" : 101,
+				"text" : "Y [00]",
+				"type" : "slider",
+				"value" : 0
+			},
+			"schemecolor" : 
+			{
+				"order" : 100,
+				"text" : "Color [#3889C9]",
+				"type" : "color",
+				"value" : "0.2196 0.5373 0.7882"
+			},
+			"size" : 
+			{
+				"fraction" : false,
+				"index" : 2,
+				"max" : 20,
+				"min" : 0,
+				"order" : 102,
+				"text" : "Size [07]",
+				"type" : "slider",
+				"value" : 7
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Anime" ],
+	"title" : "Nikke Anachiro Cinderella Glass Princess",
+	"type" : "Web",
+	"version" : 1
+}
