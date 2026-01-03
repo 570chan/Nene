@@ -1,59 +1,36 @@
 {
-	"approved" : true,
-	"contentrating" : "Everyone",
-	"description" : "A background of a NIKKE Goddess of Victory character that interacts with clicks by playing various animations",
-	"file" : "index.html",
-	"general" : 
-	{
-		"properties" : 
-		{
-			"posX" : 
-			{
-				"fraction" : false,
-				"index" : 0,
-				"max" : 100,
-				"min" : -100,
-				"order" : 100,
-				"text" : "X [-05]",
-				"type" : "slider",
-				"value" : -5
-			},
-			"posY" : 
-			{
-				"fraction" : false,
-				"index" : 1,
-				"max" : 100,
-				"min" : -100,
-				"order" : 101,
-				"text" : "Y [00]",
-				"type" : "slider",
-				"value" : 0
-			},
-			"schemecolor" : 
-			{
-				"order" : 100,
-				"text" : "Color [#3889C9]",
-				"type" : "color",
-				"value" : "0.2196 0.5373 0.7882"
-			},
-			"size" : 
-			{
-				"fraction" : false,
-				"index" : 2,
-				"max" : 20,
-				"min" : 0,
-				"order" : 102,
-				"text" : "Size [07]",
-				"type" : "slider",
-				"value" : 7
-			}
-		}
-	},
-	"preview" : "preview.gif",
-	"ratingsex" : "none",
-	"ratingviolence" : "none",
-	"tags" : [ "Anime" ],
-	"title" : "Nikke Anachiro Cinderella Glass Princess",
-	"type" : "Web",
-	"version" : 1
+  "format_version": 2,
+  "header": {
+    "description": "§b§lCreated by Han's404 | Custom by neChanne.\nCharacter: Elaine",
+    "name": "§l§3Neko §l§dElaina.",
+    "uuid": "970ee3ab-c59a-4215-a91c-8c84f0a9aba5",
+    "version": [5, 1, 1],
+    "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+      "description": "§l§bNeko elaiara~",
+      "type": "resources",
+      "uuid": "202e18df-02aa-4b82-902a-a8fa01639ffd",
+      "version": [5, 1, 1]
+    }
+  ],
+
+  "settings": [
+    {
+      "type": "label",
+      "text": "§b§lĐây là nơi chọn 1 trong 2 có sẵn\n§d§lNhạc của bộ The journey of Elaina anime/nHay tên là Majo no Tabitabi"
+    }
+  ],
+
+  "subpacks": [
+    {
+      "folder_name": "default",
+      "name": "§l§6Better cluod's\n§a• 3D cloud's","memory_tier": 1
+    },
+    {
+      "folder_name": "morning",
+      "name": "§6§lMusic: TVアニメ『魔女の旅々\n§b• ","memory_tier": 1
+    }
+  ]
 }
